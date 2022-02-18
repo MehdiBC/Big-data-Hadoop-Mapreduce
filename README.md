@@ -20,8 +20,8 @@ The execution images are in the exection folder of this project.
 ## Excecution in small file.txt for testing:
 ![alt text](https://github.com/MehdiBC/Big-data-Hadoop-Mapreduce/blob/master/execution/image8.png)
 ## Generating jar file and copying it to the master container with execution:
-![alt text](https://github.com/MehdiBC/Big-data-Hadoop-Mapreduce/blob/master/execution/image9.png)
 ![alt text](https://github.com/MehdiBC/Big-data-Hadoop-Mapreduce/blob/master/execution/image10.png)
+![alt text](https://github.com/MehdiBC/Big-data-Hadoop-Mapreduce/blob/master/execution/image9.png)
 ## Display of the some data from output
 ![alt text](https://github.com/MehdiBC/Big-data-Hadoop-Mapreduce/blob/master/execution/image11.png)
 ## We can monitor the map reduce jobs from this url http://localhost:8088
