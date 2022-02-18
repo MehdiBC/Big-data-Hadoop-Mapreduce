@@ -1,0 +1,5 @@
+2012-01-06      09:53   Kansas City     Toys    478.14  Visa
+2012-01-06      09:53   Long Beach      Computers       332.55  Amex
+2012-01-06      09:53   San Francisco   Sporting Goods  402.92  Visa
+2012-01-06      09:53   North Las Vegas Consumer Electronics    122.06  Visa
+2012-01-06      09:53   San Bernardino  Pet Supplies    326.66  MasterCard
