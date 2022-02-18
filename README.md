@@ -29,3 +29,11 @@ The execution images are in the exection folder of this project.
 ![alt text](https://github.com/MehdiBC/Big-data-Hadoop-Mapreduce/blob/master/execution/image12.png)
 ## We can check informations about workers from http://localhost:8040 and http://localhost:8041
 ![alt text](https://github.com/MehdiBC/Big-data-Hadoop-Mapreduce/blob/master/execution/image13.png)
+## Now we work on Application: First we run the application with a test file localy we regenerate the jar
+![alt text](https://github.com/MehdiBC/Big-data-Hadoop-Mapreduce/blob/master/execution/image14.png)
+![alt text](https://github.com/MehdiBC/Big-data-Hadoop-Mapreduce/blob/master/execution/image15.png)
+# Finally we copy the jar and run it with hadoop
+![alt text](https://github.com/MehdiBC/Big-data-Hadoop-Mapreduce/blob/master/execution/image16.png)
+
+  
+  
